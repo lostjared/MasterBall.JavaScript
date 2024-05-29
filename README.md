@@ -1,6 +1,8 @@
 
 # Master Ball
 
+![screenshot](https://github.com/lostjared/MasterBall.JavaScript/blob/main/screenshot.jpg)
+
 Master Ball is a classic breakout-style game implemented using HTML5 and 
 JavaScript. The game features a ball that bounces off walls and a paddle that the player controls to prevent the ball from falling off the screen. The objective is to clear all the blocks on the screen by hitting them with the ball.
 
